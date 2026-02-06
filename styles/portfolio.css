@@ -1,0 +1,46 @@
+/*shared styles*/
+h2, ul{
+font-family: "Open Sans", sans-serif;
+display: flex;
+margin:4%;
+justify-content: center;
+}
+/***navberstyles*/
+.btn{
+    background-color:rgba(253, 77, 13, 0.959) ;
+    border:0;
+    border-radius: 4px;
+    width: 90px; 
+    padding: 10px;
+    color: white;
+    font-size: small;
+    cursor: pointer;
+}
+h4{
+    font-size: small;
+    opacity: 60%;
+    
+}
+.orng{
+    color:rgba(253, 77, 13, 0.959) ;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+}
+.port,
+.vlog,
+.hm{
+    padding: 10px;
+
+}
+h2{
+    font-size: xx-large;
+}
+.dev{
+   
+    
+}
+
+
+
